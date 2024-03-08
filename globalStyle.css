@@ -1,0 +1,11 @@
+main, aside {
+    border: 1px solid black;
+    height: 80vh;
+}
+
+main {
+    width: 80%;
+}
+aside {
+    width: 19%;
+}
