@@ -1,6 +1,6 @@
 main, aside {
     border: 1px solid black;
-    height: 80vh;
+    
 }
 
 main {
@@ -8,4 +8,8 @@ main {
 }
 aside {
     width: 19%;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
 }
